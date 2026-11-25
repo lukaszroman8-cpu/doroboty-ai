@@ -1,0 +1,13 @@
+# Keep LF line endings in every checkout (including Windows with core.autocrlf=true).
+# Formatting, design-system hash and baseline packet checks compare exact bytes.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
